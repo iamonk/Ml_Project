@@ -7,5 +7,7 @@ Project List
    DataSet Link
    (https://www.kaggle.com/balaka18/email-spam-classification-dataset-csv)
    
-2.   
+2. Heart Disease Classifier
+   DataSet Link
+   (https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
  
