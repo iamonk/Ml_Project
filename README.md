@@ -10,4 +10,8 @@ Project List
 2. Heart Disease Classifier
    DataSet Link
    (https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
+   
+3. BullDozer Regressor
+   Dataset Link
+   (https://www.kaggle.com/c/bluebook-for-bulldozers/data)
  
