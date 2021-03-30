@@ -14,4 +14,8 @@ Project List
 3. BullDozer Regressor
    Dataset Link
    (https://www.kaggle.com/c/bluebook-for-bulldozers/data)
+   
+4. Predicting Survivor in Titanic
+   DataSet Link
+   (https://www.kaggle.com/c/titanic/data)
  
